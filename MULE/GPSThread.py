@@ -20,7 +20,8 @@ DeployOrbitNum = 5
 
 
 # IMPORTANT:: everyone who reads the GPS value needs to check that the GPS is not out of service (read service variable)
-# when this thread is paused it should update that variable
+# when this thread is paused it should update that variable.
+#
 # how to make the GPS information available to the other threads
 
 
